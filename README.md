@@ -9,7 +9,7 @@ Update application status via dropdown
 
 View all applications in a table
 
-Uses in-memory database (can be switched to SQLite)
+Uses in-memory database.
 
 Swagger UI enabled for backend API documentation
 
@@ -19,7 +19,7 @@ Backend: ASP.NET Core Web API, Entity Framework Core (In-Memory DB)
 
 Frontend: React, Axios
 
-Optional Styling: Tailwind CSS (or replace with your preferred CSS framework)
+Optional Styling: Tailwind CSS.
 
 ⚙️ Setup Instructions
 
