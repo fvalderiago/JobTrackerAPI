@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\src\\components\\ApplicationList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\src\\components\\ApplicationForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\src\\components\\ApplicationTable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|c:\\users\\test\\source\\repos\\jobtrackerapi\\jobtrackerapi\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|solutionrelative:jobtrackerapi\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|c:\\users\\test\\source\\repos\\jobtrackerapi\\jobtrackerapi\\jobtrackerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|solutionrelative:jobtrackerapi\\jobtrackerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|c:\\users\\test\\source\\repos\\jobtrackerapi\\jobtrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|solutionrelative:jobtrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|c:\\users\\test\\source\\repos\\jobtrackerapi\\jobtrackerapi\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|solutionrelative:jobtrackerapi\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\src\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\src\\App.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\source\\repos\\job-tracker\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|c:\\users\\test\\source\\repos\\jobtrackerapi\\jobtrackerapi\\repositories\\ijobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|solutionrelative:jobtrackerapi\\repositories\\ijobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|c:\\users\\test\\source\\repos\\jobtrackerapi\\jobtrackerapi\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036E8E45-8E54-4B3A-B355-90942FBC66F4}|JobTrackerAPI\\JobTrackerAPI.csproj|solutionrelative:jobtrackerapi\\repositories\\jobapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Test\\Documents\\New folder\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobTrackerAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\JobTrackerAPI.csproj",
+              "RelativeDocumentMoniker": "JobTrackerAPI\\JobTrackerAPI.csproj",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\JobTrackerAPI.csproj",
+              "RelativeToolTip": "JobTrackerAPI\\JobTrackerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T06:30:52.923Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\index.js",
+              "RelativeDocumentMoniker": "..\\job-tracker\\src\\index.js",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\index.js",
+              "RelativeToolTip": "..\\job-tracker\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-24T01:27:59.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\index.css",
+              "RelativeDocumentMoniker": "..\\job-tracker\\src\\index.css",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\index.css",
+              "RelativeToolTip": "..\\job-tracker\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-24T01:27:59.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.test.js",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\App.test.js",
+              "RelativeDocumentMoniker": "..\\job-tracker\\src\\App.test.js",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\App.test.js",
+              "RelativeToolTip": "..\\job-tracker\\src\\App.test.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-24T01:27:58.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\App.js",
+              "RelativeDocumentMoniker": "..\\job-tracker\\src\\App.js",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\App.js",
+              "RelativeToolTip": "..\\job-tracker\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-24T01:27:58.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\App.css",
+              "RelativeDocumentMoniker": "..\\job-tracker\\src\\App.css",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\App.css",
+              "RelativeToolTip": "..\\job-tracker\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-24T01:27:58.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\public\\index.html",
+              "RelativeDocumentMoniker": "..\\job-tracker\\public\\index.html",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\public\\index.html",
+              "RelativeToolTip": "..\\job-tracker\\public\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-24T01:27:35.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "..\\job-tracker\\src\\services\\api.js",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\services\\api.js",
+              "RelativeToolTip": "..\\job-tracker\\src\\services\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-24T00:29:25.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\Test\\Documents\\New folder\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\New folder\\src\\services\\api.js",
+              "ToolTip": "C:\\Users\\Test\\Documents\\New folder\\src\\services\\api.js",
+              "RelativeToolTip": "..\\..\\..\\Documents\\New folder\\src\\services\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-24T00:26:00.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationTable.jsx",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\components\\ApplicationTable.jsx",
+              "RelativeDocumentMoniker": "..\\job-tracker\\src\\components\\ApplicationTable.jsx",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\components\\ApplicationTable.jsx",
+              "RelativeToolTip": "..\\job-tracker\\src\\components\\ApplicationTable.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-24T00:12:32.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationList.jsx",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\components\\ApplicationList.jsx",
+              "RelativeDocumentMoniker": "..\\job-tracker\\src\\components\\ApplicationList.jsx",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\components\\ApplicationList.jsx",
+              "RelativeToolTip": "..\\job-tracker\\src\\components\\ApplicationList.jsx",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwDwAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-24T00:12:32.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationForm.jsx",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\components\\ApplicationForm.jsx",
+              "RelativeDocumentMoniker": "..\\job-tracker\\src\\components\\ApplicationForm.jsx",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\components\\ApplicationForm.jsx",
+              "RelativeToolTip": "..\\job-tracker\\src\\components\\ApplicationForm.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-24T00:12:30.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI\\Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\Models\\JobApplication.cs",
+              "RelativeToolTip": "JobTrackerAPI\\Models\\JobApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:05:16.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "JobTrackerAPI\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:41:13.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\Program.cs",
+              "RelativeToolTip": "JobTrackerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:41:56.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "logo.svg",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\logo.svg",
+              "RelativeDocumentMoniker": "..\\job-tracker\\src\\logo.svg",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\job-tracker\\src\\logo.svg",
+              "RelativeToolTip": "..\\job-tracker\\src\\logo.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-24T01:27:59.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\Repositories\\JobApplicationRepository.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI\\Repositories\\JobApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\Repositories\\JobApplicationRepository.cs",
+              "RelativeToolTip": "JobTrackerAPI\\Repositories\\JobApplicationRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:40:21.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IJobApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\Repositories\\IJobApplicationRepository.cs",
+              "RelativeDocumentMoniker": "JobTrackerAPI\\Repositories\\IJobApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Test\\source\\repos\\JobTrackerAPI\\JobTrackerAPI\\Repositories\\IJobApplicationRepository.cs",
+              "RelativeToolTip": "JobTrackerAPI\\Repositories\\IJobApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:39:36.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
